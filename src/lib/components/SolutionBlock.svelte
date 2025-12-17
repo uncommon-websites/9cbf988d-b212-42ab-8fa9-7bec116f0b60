@@ -19,8 +19,8 @@
     <p class="text-gray-500 leading-relaxed mb-8 max-w-md">
       {description}
     </p>
-    <a href={linkHref} class="text-[var(--color-primary-blue)] font-medium hover:underline text-sm">
-      {linkText}
+    <a href={linkHref} class="text-black font-medium hover:underline text-sm">
+      {linkText} →
     </a>
   </div>
 

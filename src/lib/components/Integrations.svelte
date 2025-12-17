@@ -8,10 +8,10 @@
       Integrations
     </div>
     <h2 class="font-serif text-4xl text-gray-900 mb-6">
-      Establish your single source of truth
+      Works with the tools you already use
     </h2>
     <p class="text-gray-500 leading-relaxed max-w-2xl mx-auto">
-      Seamless two-way integrations with back office, cashflow, portfolio, document management, and advice platforms ensure complete control of client data.
+      Real-time sync with your accounting software, approval workflows through Slack and Teams, and automatic PEPPOL compliance for e-invoicing.
     </p>
   </div>
 
@@ -22,31 +22,31 @@
     <!-- Logos Row -->
     <div class="flex flex-wrap md:flex-nowrap items-center justify-center md:justify-between gap-8 relative z-10">
       
-      <!-- Logo 1 -->
+      <!-- Logo 1: Xero -->
       <div class="w-16 h-16 bg-white rounded-full shadow-sm border border-gray-100 flex items-center justify-center p-3">
-        <div class="text-[10px] font-bold text-gray-400">iress</div>
+        <div class="text-[10px] font-bold text-blue-600">Xero</div>
       </div>
 
-       <!-- Logo 2 -->
+       <!-- Logo 2: QuickBooks -->
       <div class="w-16 h-16 bg-white rounded-full shadow-sm border border-gray-100 flex items-center justify-center p-3">
-        <div class="text-[10px] font-bold text-blue-500">intelliflo</div>
+        <div class="text-[10px] font-bold text-green-600">QuickBooks</div>
       </div>
 
-       <!-- Center Logo (Saturn) -->
-      <div class="w-24 h-24 bg-blue-900 rounded-full shadow-lg border-4 border-white flex items-center justify-center p-2 relative">
-        <div class="text-white font-serif font-bold text-xs tracking-widest">SATURN</div>
-        <!-- Orbit ring visual -->
-        <div class="absolute inset-0 rounded-full border border-blue-700 scale-110 opacity-50"></div>
+       <!-- Center Logo (Cashfeed) -->
+      <div class="w-24 h-24 bg-black rounded-full shadow-lg border-4 border-white flex items-center justify-center p-2 relative">
+        <svg width="36" height="45" viewBox="0 0 90 115" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M31.8701 9.95388L15.3109 19.4791L31.8819 29.0064L48.446 19.4812L31.8701 9.95388ZM53.2588 27.7795L36.6927 37.3058L36.6911 56.3603L53.2588 46.8319V27.7795ZM58.0696 55.1313L41.5014 64.66L58.072 74.187L74.6383 64.6605L58.0696 55.1313ZM79.4486 72.9601L62.883 82.4862V101.538L79.4486 92.0122V72.9601ZM53.2614 101.539V82.4864L36.6903 72.9591V92.012L53.2614 101.539ZM27.0694 56.3613L10.5003 46.8319V27.7788L27.0711 37.3058L27.0694 56.3613ZM27.0687 67.4269L4.48643 54.4394C2.25391 53.1554 0.878662 50.7828 0.878662 48.215V19.4801C0.878662 17.7684 1.79538 16.1867 3.28356 15.3307L28.2608 0.963381C30.4933 -0.320696 33.2439 -0.321154 35.4766 0.962171L60.474 15.3299C61.963 16.1857 62.8804 17.7679 62.8804 19.4801V46.8319L86.665 60.5111C88.1535 61.3671 89.0702 62.9489 89.0702 64.6607V93.3956C89.0702 95.9635 87.6948 98.3361 85.4621 99.62L60.4776 113.988C58.9894 114.843 57.1558 114.843 55.6673 113.988L30.6773 99.6202C28.4444 98.3365 27.0687 95.9635 27.0687 93.3954V67.4269Z" fill="white"/>
+        </svg>
       </div>
 
-       <!-- Logo 3 -->
+       <!-- Logo 3: Exact -->
       <div class="w-16 h-16 bg-white rounded-full shadow-sm border border-gray-100 flex items-center justify-center p-3">
-        <div class="text-[10px] font-bold text-green-600">T4A</div>
+        <div class="text-[10px] font-bold text-red-600">Exact</div>
       </div>
 
-       <!-- Logo 4 -->
+       <!-- Logo 4: Slack -->
       <div class="w-16 h-16 bg-white rounded-full shadow-sm border border-gray-100 flex items-center justify-center p-3">
-        <div class="text-[10px] font-bold text-blue-400">365</div>
+        <div class="text-[10px] font-bold text-purple-600">Slack</div>
       </div>
 
     </div>
